@@ -1,0 +1,260 @@
+﻿
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 1: [2, 1071]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 1: [2, 1219]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 1: [2, 1849]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 1: [4, 42.98784389258885]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 1: [4, 85.61353450698803]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 1: [4, 127.919244461511]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 1: [5, 0.6934227183281193]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 1: [5, 1.0664398742499202]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 1: [5, 1.443132132112618]
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 2: [8, 3595]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 2: [8, 6593]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 2: [8, 9147]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 2: [8, 23.42450795911074]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 2: [8, 53.38153746616941]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 2: [8, 83.27712192841044]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 2: [8, 2.5442237467712667]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 2: [8, 4.951576505564084]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 2: [8, 6.8994468611253374]
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 3: [7, 486]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 3: [6, 5231]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 3: [6, 9048]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 3: [7, 0.46177961919694105]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 3: [6, 26.663974625317138]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 3: [5, 59.22525998605775]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 3: [7, 0.21147750381814556]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 3: [6, 3.120453344085033]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 3: [6, 6.052797973120975]
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 4: [3, 13950]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 4: [3, 20028]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 4: [3, 24088]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 4: [4, 325.52290556581846]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 4: [4, 632.0722668662282]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 4: [4, 924.8826901025047]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 4: [4, 8.596519447924274]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 4: [4, 11.01809959428667]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 4: [4, 14.398855574656052]
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 5: [4, 5532]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 5: [4, 12323]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 5: [4, 18131]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 5: [6, 179.92482346340898]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 5: [6, 355.02528037122215]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 5: [6, 531.1392946035795]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 5: [7, 4.195897314969981]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 5: [7, 6.536691842269944]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 5: [7, 7.86114651141787]
+
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 6: [6, 88811]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 6: [6, 144396]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 6: [6, 182920]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 6: [8, 655.5773094955948275]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 6: [8, 1213.5583663935975642]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 6: [8, 1865.209198481804222]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 6: [8, 9.02489983797387]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 6: [8, 13.616488922648912]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 6: [8, 17.16303412613928]
+
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 7: [4, 382233]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 7: [4, 508764]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 7: [4, 574578]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 7: [6, 1038.185546879236547]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 7: [5, 2276.37254698712549]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 7: [5, 3144.555672149847615]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 7: [7, 37.029697955715605]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 7: [6, 45.7154195507131]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 7: [6, 49.88013486521286]
+
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 8: [7, 225540]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 8: [6, 411565]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 8: [6, 568462]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 8: [9, 796.911799780323245]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 8: [8, 1483.468507767142625]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 8: [8, 2389.801882943668607]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 8: [7, 6.39411092896963]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 8: [7, 12.020077656098621]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 8: [7, 17.81714101494423]
+
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 9: [8, 185136]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 9: [8, 286282]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 9: [7, 367924]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 9: [7, 989.0885040763445843]   
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 9: [7, 1967.5979017885357]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 9: [6, 2967.619161979397057]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 9: [6, 19.588315201165695]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 9: [5, 29.328139654898855]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 9: [5, 35.68368506287461]
+
+
+
+-------------------------------------TIME-COST TRADE_OFF-------------------------------------------
+[Note: First element of the list is time and the second one is cost. If time is 0 that means no seed is selected with the initial percentage.]
+BASED ON DEGREE CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 10: [6, 4867]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 10: [6, 4867]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 10: [6, 4867]
+BASED ON CLOSENESS CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 10: [6, 0.38750075275029594]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 10: [6, 0.38750075275029594]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 10: [6, 0.38750075275029594]
+BASED ON EIGENVECTOR CENTRALITY VALUES : 
+Time-cost tradeoff when Initial Percentage of seed selection is 5% :
+Graph 10: [7, 0.22587455841220788]
+Time-cost tradeoff when Initial Percentage of seed selection is 10% :
+Graph 10: [7, 0.22587455841220788]
+Time-cost tradeoff when Initial Percentage of seed selection is 15% :
+Graph 10: [7, 0.22587455841220788]
+
+
+CORRELATION COEFFICIENT OF THE NETWORKS CONSIDERED ---------
+
+Correlation Coefficient of Graph 1 : -0.668214006723986
+Correlation Coefficient of Graph 2 : -0.08465913095969403
+Correlation Coefficient of Graph 3 : 0.047403910793678096
+Correlation Coefficient of Graph 4 : -0.3885157446925048
+Correlation Coefficient of Graph 5 : -0.4779819325568732
+Correlation Coefficient of Graph 6 : 0.010815796314560595
+Correlation Coefficient of Graph 7 : -0.04064572729798339
+Correlation Coefficient of Graph 8 : 0.1770153577091817
+Correlation Coefficient of Graph 9 : -0.07460310232051015
+Correlation Coefficient of Graph 10 : -0.0769383586215835

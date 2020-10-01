@@ -1,0 +1,78 @@
+﻿				   CORRELATION COEFFICIENT
+
+                        
+			Datasets Used :
+
+Facebook network dataset  
+Hamsterster Friendship dataset
+Hamsterster Full dataset
+Google Plus dataset
+Twitter dataset
+Brightkite dataset
+Epinions dataset
+Facebook(WOSN) dataset
+SlashDot Zoo dataset
+Advogato dataset
+
+[ Graph corresponding to Facebook network is denoted as graph1, Hamsterster Friendship dataset is denoted as graph2, Hamsterster Full dataset is denoted as graph3, Google Plus dataset as graph4 , Twitter dataset as graph5 , Brightkite dataset as graph6 , Epinions dataset as graph7 , Facebook(WOSN) dataset as graph8, Slashdot Zoo dataset as graph9,  Advogato dataset as graph10 ] 
+
+
+ FOR GRAPH 1 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.11681248930688115
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.3841807305038156
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.5158522745673244
+
+ FOR GRAPH 2 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.4985311772900782
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.5141973032443649
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.8998988361139478
+
+ FOR GRAPH 3 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.46956863563589823
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.44143036735175406
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.8857589799745429
+
+ FOR GRAPH 4 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.1588885321884741
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.5692156928505596
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.636245582663635
+
+ FOR GRAPH 5 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.14318604754182462
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.10941054130063722
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.22814346962393103
+
+ FOR GRAPH 6 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.3190007553192165
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.10801868308743752
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.489089956378229
+
+ FOR GRAPH 7 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.54225786544242235
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.51766789474438965
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.83779124157496478
+
+ FOR GRAPH 8 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.25643788633864672
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.31058588535678995
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.53146795434637254  
+
+ FOR GRAPH 9 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.27392847493838383
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.46138545162516328
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.77639739748952131
+ 
+ FOR GRAPH 10 :----
+
+Correlation Coefficient between Degree and Closeness Centrality : 0.36165520286570774
+Correlation Coefficient between Closeness and Eigenvector Centrality : 0.43284766524293083
+Correlation Coefficient between Eigenvector and Degree Centrality : 0.9436214361939359
